@@ -14,11 +14,16 @@ body,
 }
 
 .clock {
-  font-size: 10rem;
+  font-size: 15rem;
   font-weight: bold;
   color:yellow;
 }
 
 body{
-  background-image: url();
+  background-image: url(https://picsum.photos/id/16/1920/1080);
+  
+}
+
+img{
+  height:100%;
 }
