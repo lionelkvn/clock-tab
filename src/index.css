@@ -6,14 +6,15 @@ body,
   padding: 0;
 }
 
-.app {
+
+
+
+
+.clock {
   display: flex;
   justify-content: center;
   align-items: center;
   height: 100%;
-}
-
-.clock {
   font-size: 15rem;
   font-weight: bold;
   color:yellow;
@@ -24,6 +25,3 @@ body{
   
 }
 
-img{
-  height:100%;
-}

@@ -1,12 +1,14 @@
 import React from 'react';
 import Clock from './Clock';
+import Navbar from './Navbar'
 
 
 
 const App = () => {
   return (
     <div className="app">
-    <Clock />
+        <Navbar />
+        <Clock />
     </div>
   );
 };
