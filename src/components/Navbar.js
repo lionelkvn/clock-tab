@@ -1,4 +1,5 @@
 import 'bootstrap/dist/css/bootstrap.css'
+import './Navbar.css'
 function Navbar () {
     return (
         <div>
