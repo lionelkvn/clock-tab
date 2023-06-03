@@ -1,16 +1,21 @@
+import 'bootstrap/dist/css/bootstrap.css'
 function Navbar () {
     return (
-        <header>
+        <div>
+            <header>
              <h3>Clocktab</h3>
-             <nav>
-                
-                    Clocktab
+                <ul className='container col 6 d-flex p-2 justify-content-evenly'>
+               
+                    <li>Clocktab</li>
                     <li>Countdown</li>
                     <li>Timer Tab</li>
                     <li>Msg Tab</li>
                 
-             </nav>
-        </header>
+                </ul>
+                 
+           
+            </header>
+        </div>
     )
 }
 
