@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-
+hello this is a  recreation of clocktab.com using react as the framework. this is my first project using react so please teach me if needed.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
