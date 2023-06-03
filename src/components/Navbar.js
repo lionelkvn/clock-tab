@@ -3,10 +3,10 @@ function Navbar () {
     return (
         <div>
             <header>
-             <h3>Clocktab</h3>
-                <ul className='container col 6 d-flex p-2 justify-content-evenly'>
+             
+                <ul className='container col-4 d-flex p-2 justify-content-evenly list-inline'>
                
-                    <li>Clocktab</li>
+                    <li className='list-inline item'>Clocktab</li>
                     <li>Countdown</li>
                     <li>Timer Tab</li>
                     <li>Msg Tab</li>
